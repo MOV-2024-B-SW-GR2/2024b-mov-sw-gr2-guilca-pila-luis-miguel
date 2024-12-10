@@ -1,0 +1,6 @@
+PARROQUIA|Quitumbe|Sur de Quito|1980-10-23|true|3000
+TIENDA|Minimarket Jose|Parque las cuadras|2018-11-09|true|700.0|Quitumbe
+PARROQUIA|calderon|Norte de Quito|1980-10-06|true|4500
+TIENDA|tienda Dayita|llano grande|2024-08-20|true|3000.0|calderon
+TIENDA|tienda Rosita|Marfelest|2022-10-27|true|4000.5|calderon
+PARROQUIA|Floresta|norte de Quito|1980-03-04|true|4500

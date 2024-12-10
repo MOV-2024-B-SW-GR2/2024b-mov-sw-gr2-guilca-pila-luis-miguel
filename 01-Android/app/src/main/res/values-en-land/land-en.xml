@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Landscape English</string>
+    <color name="background_color">#ADD8E6</color> <!-- Light Blue -->
+    <color name="text_color">#000000</color> <!-- Black -->
+</resources>

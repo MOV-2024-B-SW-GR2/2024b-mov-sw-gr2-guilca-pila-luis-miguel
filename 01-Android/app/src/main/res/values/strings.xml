@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Retrato Español</string>
+    <color name="background_color">#87CEFA</color> <!-- Light Sky Blue -->
+    <color name="text_color">#FFFFFF</color> <!-- White -->
+</resources>

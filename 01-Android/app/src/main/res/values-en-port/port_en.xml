@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portrait English</string>
+    <color name="background_color">#FFB6C1</color> <!-- Light Pink -->
+    <color name="text_color">#000000</color> <!-- Black -->
+</resources>
